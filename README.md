@@ -1,2 +1,2 @@
 # code-
-this is new repository
+this is new repository code.
